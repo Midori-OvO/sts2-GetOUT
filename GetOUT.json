@@ -1,0 +1,14 @@
+{
+  "id": "GetOUT",
+  "name": "GetOUT!",
+  "author": "GetOUT",
+  "description": "多人局有人离开、大家卡住时，房主可以把已经断线的玩家踢出：对局中在 ESC 菜单里点“踢出玩家”，剩下的人不断线重载后继续；读多人存档时，也可以在大厅里把没来的人从存档里删掉。所有玩家都必须安装本 mod 和 RitsuLib。",
+  "version": "0.1.3",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [
+    { "id": "STS2-RitsuLib", "min_version": "0.6.11" }
+  ],
+  "affects_gameplay": true,
+  "min_game_version": "0.111.0"
+}
