@@ -12,7 +12,7 @@
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>disable</ImplicitUsings>
-    <Version>0.1.3</Version>
+    <Version>0.1.4</Version>
     <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
     <DebugType>none</DebugType>
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
@@ -33,7 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="STS2.RitsuLib" Version="0.6.10" ExcludeAssets="runtime" />
+    <PackageReference Include="STS2.RitsuLib" Version="0.6.16" ExcludeAssets="runtime" />
   </ItemGroup>
 
   <ItemGroup>
